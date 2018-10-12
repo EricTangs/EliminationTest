@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliminationGame", "EliminationGame.csproj", "{0FBF8FE4-B592-1819-4291-E873C8CDB767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliminationGame.Editor", "EliminationGame.Editor.csproj", "{36D38785-B9FA-7EC6-CEBC-F7F6A71D3670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBF8FE4-B592-1819-4291-E873C8CDB767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBF8FE4-B592-1819-4291-E873C8CDB767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBF8FE4-B592-1819-4291-E873C8CDB767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBF8FE4-B592-1819-4291-E873C8CDB767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D38785-B9FA-7EC6-CEBC-F7F6A71D3670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D38785-B9FA-7EC6-CEBC-F7F6A71D3670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D38785-B9FA-7EC6-CEBC-F7F6A71D3670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D38785-B9FA-7EC6-CEBC-F7F6A71D3670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
